@@ -1,0 +1,27 @@
+{
+  "name": "js-bls-signatures-playground",
+  "description": "> BLS signatures playground using Anton's BLS wrappers",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmarley/js-bls-signatures-playground.git"
+  },
+  "keywords": [
+    "bls",
+    "chia"
+  ],
+  "author": "Nathan Marley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmarley/js-bls-signatures-playground/issues"
+  },
+  "homepage": "https://github.com/nmarley/js-bls-signatures-playground#readme",
+  "dependencies": {
+    "bls-signatures": "^0.1.9"
+  },
+  "devDependencies": {}
+}
